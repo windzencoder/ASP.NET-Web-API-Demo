@@ -215,3 +215,7 @@ E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csprojResolveAss
 E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.csproj.CoreCompileInputs.cache
 E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.dll
 E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\obj\Debug\WebAPIDemo.pdb
+E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\bin\EntityFramework.dll
+E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.dll
+E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\bin\EntityFramework.SqlServer.xml
+E:\github\WebAPIDemo\WebAPIDemo\WebAPIDemo\bin\zh-Hans\EntityFramework.SqlServer.resources.dll
