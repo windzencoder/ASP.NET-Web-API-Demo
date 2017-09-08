@@ -1,0 +1,12 @@
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\bin\Debug\zh-Hans\EntityFramework.resources.dll
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojResolveAssemblyReference.cache
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CoreCompileInputs.cache
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+E:\github\WebAPIDemo\WebAPIDemo\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
